@@ -26,11 +26,11 @@ class Database extends Config
      */
     public array $default = [
         'DSN'      => '',
-        'hostname' => '172.23.0.1',
-        'username' => 'user',
-        'password' => 'test',
-        'database' => 'myDb',
-        'DBDriver' => 'MySQLi',
+        'hostname' => '',
+        'username' => '',
+        'password' => '',
+        'database' => '',
+        'DBDriver' => '',
         'DBPrefix' => '',
         'pConnect' => false,
         'DBDebug'  => true,
