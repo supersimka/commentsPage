@@ -49,7 +49,7 @@
           <form id="addComment">
             <div class="form-group">
               <label for="FormControlInput1">Email</label>
-              <input type="text" class="form-control" name="email" id="FormControlInput1" placeholder="name@example.com" required>
+              <input type="emain" class="form-control" name="email" id="FormControlInput1" placeholder="name@example.com" required>
             </div>
             <div class="form-group">
               <label for="FormControlTextarea1">Текст</label>
